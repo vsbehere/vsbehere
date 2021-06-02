@@ -74,7 +74,7 @@ I like you go for trekking or to adventures trips for fun.
          width="40" height="40" />
    </a>
    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank">
-      <img src="https://en.wikipedia.org/wiki/File:Gnu-bash-logo.svg" alt="Bash"
+      <img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/SVG/BASH_logo-transparent-bg-bw-02.svg" alt="Bash"
          width="40" height="40" />
    </a>
    <a href="https://www.selenium.dev" target="_blank">
