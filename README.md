@@ -10,7 +10,7 @@ I like you go for trekking or to adventures trips for fun.
    you."</i>
 
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Languages and Technologies</h3>
 <p align="left">
    <a href="https://www.tensorflow.org" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
