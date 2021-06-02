@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+By day I am a Senior Software Engineer at Josh Software Inc. By night I write code for my own practice and to explore various technologies.
+
+I like you go for trekking or to adventures trips for fun.
+
+<b>My favourite quote :</b> <i>"There's always plenty of room for improvement - in your code, in your abilities, in you."</i>
+
