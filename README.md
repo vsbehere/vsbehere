@@ -42,7 +42,7 @@ I like you go for trekking or to adventures trips for fun.
    </a>
    <a href="https://aerospike.com/" target="_blank">
       <img src="https://aerospike.com/wp-content/themes/pro-child/dist/img/logo.png"
-         alt="aerospike" width="40" height="40" />
+         alt="aerospike" width="200" height="40" />
    </a>
    <a href="https://solr.apache.org/" target="_blank">
       <img src="https://solr.apache.org/theme/images/logo.svg"
@@ -85,12 +85,12 @@ I like you go for trekking or to adventures trips for fun.
    <a href="https://www.protractortest.org/#/" target="_blank">
       <img
          src="https://www.protractortest.org/img/protractor-logo-450.png"
-         alt="protractor" width="40" height="40" />
+         alt="protractor" width="120" height="40" />
    </a>
    <a href="https://junit.org/junit4/" target="_blank">
       <img
          src="https://junit.org/junit4/images/junit-logo.png"
-         alt="junit4" width="40" height="40" />
+         alt="junit4" width="100" height="40" />
    </a>
 </p>
 
