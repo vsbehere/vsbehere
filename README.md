@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-By day I am a Senior Software Engineer at Josh Software Inc. By night I write code for my own practice and to explore
+By day I am a Senior Software Engineer at Humancloud Technologies Pvt Ltd. By night I write code for my own practice and to explore
 various technologies.
 
 I like you go for trekking or to adventures trips for fun.
